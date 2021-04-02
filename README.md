@@ -1,1 +1,1 @@
-# CV_HSE_ASSIGNMENTS
+# Made assignments related to Computer Vision course from HSE.
